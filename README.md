@@ -1,29 +1,45 @@
 # 🎓 Student Filtering System
 
-A responsive **Student Filtering System** built with **React.js** and **Tailwind CSS**. This project demonstrates how to filter and search student data on the frontend using React Hooks.
+A responsive **Student Filtering System** built using **React.js** and **Tailwind CSS**. This project demonstrates frontend filtering by allowing users to search and filter student records based on multiple criteria in real time.
 
-## 🚀 Features
+---
 
-* 🔍 Search students by name
-* 🎯 Filter by Department
-* 🎂 Filter by Age
-* 📊 Filter by Marks
-* 📍 Filter by City
-* 🔄 Clear all filters with one click
-* 📱 Fully Responsive Design
-* 🌙 Modern Dark UI
-* ⚡ Fast filtering using `useMemo`
+## 🌐 Live Demo
+
+🔗 **Live Website:**  
+https://filtering-system-fawn.vercel.app/
+
+🔗 **GitHub Repository:**  
+https://github.com/Shivam182107/filtering-system.git
+
+---
+
+## ✨ Features
+
+- 🔍 Search students by name
+- 🏫 Filter by Department
+- 🎂 Filter by Age
+- 📊 Filter by Marks
+- 📍 Filter by City
+- 🔄 Clear all filters instantly
+- 📱 Fully Responsive Design
+- 🌙 Modern Dark UI
+- ⚡ Fast filtering using React `useMemo`
+
+---
 
 ## 🛠️ Tech Stack
 
-* React.js
-* Tailwind CSS
-* JavaScript (ES6+)
-* React Hooks (`useState`, `useMemo`)
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- React Hooks (`useState`, `useMemo`)
+
+---
 
 ## 📂 Project Structure
 
-```
+```text
 src
 │── App.jsx
 │── Card.jsx
@@ -31,35 +47,78 @@ src
 │── main.jsx
 ```
 
-## ⚙️ Installation
+---
+
+## 🚀 Installation
 
 ```bash
-git clone <repository-url>
+# Clone the repository
+git clone https://github.com/Shivam182107/filtering-system.git
 
-cd student-filtering-system
+# Navigate into the project
+cd filtering-system
 
+# Install dependencies
 npm install
 
+# Start development server
 npm run dev
 ```
 
+---
+
+## 🎯 Filters Available
+
+- Search by Student Name
+- Department Filter
+- Age Filter
+- Marks Filter
+- City Filter
+- Clear All Filters
+
+---
+
 ## 📸 Preview
 
-The application displays student information in responsive cards and allows users to filter the list instantly using multiple criteria.
+The application displays student information in beautiful responsive cards and allows users to instantly filter data using multiple filter options.
 
-## 📚 Learning Outcomes
+---
 
-This project helped in understanding:
+## 📚 What I Learned
 
-* State Management with React Hooks
-* Array Filtering
-* Conditional Rendering
-* Component Reusability
-* Responsive UI Design
-* Performance Optimization using `useMemo`
+This project helped me understand:
+
+- React Hooks
+- Component Reusability
+- State Management
+- Array Filtering
+- Conditional Rendering
+- Responsive UI Design
+- Performance Optimization with `useMemo`
+
+---
+
+## 💡 Future Improvements
+
+- Sorting (Ascending/Descending)
+- Pagination
+- Debounced Search
+- Backend Integration
+- API Data Fetching
+- Filter Chips
+
+---
 
 ## 👨‍💻 Author
 
 **Shivam Ranjan Moharana**
 
-If you found this project helpful, feel free to ⭐ the repository.
+### 📬 Connect with Me
+
+GitHub: https://github.com/Shivam182107
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **⭐ Star** the repository.
